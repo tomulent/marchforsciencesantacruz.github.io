@@ -1,0 +1,96 @@
+.poppy {
+	color: #0077a5;
+	text-decoration: underline;
+}
+
+.evals img {
+	margin: 0 auto;
+	width: 200px;
+}
+
+.evals * {
+	text-align: center;
+}
+.fb-row {
+	font-size: 24px;
+	text-align: center;
+}
+/*
+.jumbotron {
+	background-image: url('/web/20180103190639im_/http://marchforsciencesantacruz.org/img/OnlineBanner.png');
+	height: 450px;
+}
+*/
+.jumbotron h1, .jumbotron p  {
+	text-align: center;
+	color: white;
+}
+.row {
+	margin-top: 30px;
+}
+
+.callout-text {
+	font-weight: bold;
+	color: #2278A3;
+}
+
+.other-links {
+	text-align: center;
+}
+
+.center-align {
+	text-align: center;
+}
+
+a {
+	color: #F7942B;
+}
+
+h1, h2, h3, h4 {
+	text-align: center;
+}
+
+.partner-row img {
+  /*box-shadow: 2px 7px 10px #969696;*/
+  margin: auto;
+  width: 200px;
+}
+
+#co-sponsor {
+	margin: auto;
+  width: 75%;
+}
+
+.partner-row h4 {
+	display: none;
+}
+
+ul.endorsers {
+	list-style: none;
+}
+
+.endorsers li {
+	margin-bottom: 10px;
+}
+
+.endorsement-title {
+	font-weight: bold;
+	display: block;
+}
+
+#main-logo {
+	width: 70%;
+	margin: auto;
+}
+
+
+#route-img {
+	width: 70%;
+	margin: auto;
+}
+
+
+.navbar {
+	margin-bottom: 0px;
+}
+
